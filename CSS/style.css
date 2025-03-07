@@ -1,0 +1,58 @@
+.logo{
+
+    width:100px ;
+}
+
+header{
+
+    text-align: center;
+}
+nav li{
+
+    display: inline;
+    padding: 60px;
+    font-size: 25px;
+}
+
+nav a{
+
+    text-decoration:none ; /*quitamos el subrayado*/
+    color: black; /*Agregamos Color a la letra*/
+}
+nav a:hover{
+
+    text-decoration: underline;
+}
+
+main{
+    background-color:rgb(255, 255, 255) ;
+    color: black;
+}
+
+.Welcome{
+
+    padding: 20px;
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+}
+
+body{
+
+    margin: 0;
+    padding: 0;
+}
+.course{
+
+    padding: 30px;
+}
+
+p{
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+.Welcome h1, .courses h2{
+
+    color: #005A9C;
+}
